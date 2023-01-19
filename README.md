@@ -4,7 +4,7 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevLucasO&theme=react-dark)
 
-![DevLucasO GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLucasO&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLucasO&show_icons=true&theme=dark)
 
 
 <div align="center"> 
