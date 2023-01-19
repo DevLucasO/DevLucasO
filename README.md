@@ -7,3 +7,5 @@
 )](https://www.instagram.com/p/CjUE7RYIz4v/?igshid=YmMyMTA2M2Y=)<br/>
 
 ![DevLucasO GitHub stats](https://github-readme-stats.vercel.app/api?username=DevlucasO&show_icons=true&theme=tokyonight)
+
+![snake_eif](https://github.com/DevlucasO/DevlucasO/blob/output/github-contribution-grid-snake.svg)
