@@ -1,27 +1,9 @@
-### Olá eu sou o Lucas Octávio 💻
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
+![Digitando SVG](https://readme-typing-svg.herokuapp.com/?color=0591E8&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Mundo!;Me+Chamo;+Lucas+Octávio+;Tenho+22+anos;Resido+em+Rio+Grande+Do+Sul,+Brasil;Desenvolvedor+;Front+End!+:%29)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/devlucasoctavio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/p/CjUE7RYIz4v/?igshid=YmMyMTA2M2Y=)
+)](https://www.instagram.com/p/CjUE7RYIz4v/?igshid=YmMyMTA2M2Y=)<br/>
 
-![DevLucasO GitHub stats](https://github-readme-stats.vercel.app/api?username=DevlucasO&show_icons=true&theme=radical)
-
-## Tecnologias que eu uso no meu dia
-
-<div style="display: inline_block"><br/>
-<img align="center" alt="html5" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
-</div>
-<div style="display: inline_block"><br/>
-<img align="center" alt="css3" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
-</div>
-<div style="display: inline_block"><br/>
-<img align="center" alt="Javascript" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
-</div>
-<div style="display: inline_block"><br/>
-<img align="center" alt="bootstrap" src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white>
-</div>
-<div style="display: inline_block"><br/>
-<img align="center" alt="react" src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB>
-</div><br/>
-Se eu pudesse me descrever em três palavras, certamente seriam: otimista, perseverante e esforçado! 
+![DevLucasO GitHub stats](https://github-readme-stats.vercel.app/api?username=DevlucasO&show_icons=true&theme=tokyonight)
